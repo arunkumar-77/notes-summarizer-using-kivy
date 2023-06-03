@@ -1,7 +1,7 @@
 # notes-summarizer-using-kivy
 
-it is based on python kivy package.
-it can be summarize the voice to text.
+The main objective of this project is to provide a user interface (UI) for summing and translating audio to text in order to grasp the context. 
+This Project is done using python kivy package.
 
 # LOGIN PAGE
 ![screen1](https://github.com/arunkumar-77/notes-summarizer-using-kivy/assets/74124425/a13fdeff-93b9-4687-8828-a1bda5b88ad0)
