@@ -14,5 +14,4 @@ This Project is done using python kivy package.
 ![screen6](https://github.com/arunkumar-77/notes-summarizer-using-kivy/assets/74124425/646384b2-7fd7-4422-ae5f-dbb46b75a482)
 
 
-The main objective of this project is to provide a user interface (UI) for summing and translating audio to text in order grasp the context. 
-The project is done using python kivy package.
+# The main objective of this project is to provide a user interface (UI) for summing and translating audio to text in order grasp the context. 
